@@ -426,7 +426,7 @@ function App() {
       </div>
       
       <div className="footer">
-        <p>© 2023 Tibbiyot Markazi - Barcha huquqlar himoyalangan</p>
+        <p>© 2025 Tibbiyot Markazi - Barcha huquqlar himoyalangan</p>
       </div>
     </div>
   );
