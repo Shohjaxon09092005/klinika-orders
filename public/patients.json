@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Shohjaxon",
+    "passport": "AA1234567",
+    "birthDate": "2000-01-01",
+    "phone": "+998 90 123 45 67"
+  },
+  {
+    "id": 2,
+    "name": "Ali Vali",
+    "passport": "BB7654321",
+    "birthDate": "1995-05-05",
+    "phone": "+998 91 765 43 21"
+  }
+]

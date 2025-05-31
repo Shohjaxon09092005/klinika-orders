@@ -1,0 +1,31 @@
+/* styles/form.css */
+.drug-form {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.drug-form input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.drug-form button {
+  padding: 10px 20px;
+  background-color: #008080;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.drug-form button:hover {
+  background-color: #006666;
+}
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #008080;
+  border-radius: 6px;
+  font-size: 16px;
+}
